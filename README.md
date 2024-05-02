@@ -1,14 +1,14 @@
-# Hello! I'm Kevin 👋
+# ¡Hola! Soy Kevin 👋
 
 ---
 
-## About Me
+## Acerca de mí
 
-I'm passionate about programming and on the journey to mastering full stack development. I love working with modern technologies and crafting innovative solutions. 💻
+Soy un apasionado desarrollador en busca de dominar el camino full stack. Me encanta trabajar con tecnologías modernas y crear soluciones innovadoras. 💻
 
 ---
 
-## Languages and Technologies
+## Lenguajes y Tecnologías
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" alt="JavaScript" height="50"/>
@@ -21,19 +21,36 @@ I'm passionate about programming and on the journey to mastering full stack deve
 
 ---
 
-## Contact
+## Badges
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="mailto:kevnsc18@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="50"/>
-    </a>
-    <a href="https://www.linkedin.com/in/kevin-sierra-castro-b1448b279/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="50"/>
-    </a>
+    <img src="https://img.shields.io/badge/JavaScript-Expert-yellow" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-Advanced-blue" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/React-Intermediate-green" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-Intermediate-lightgrey" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/NestJS-Beginner-orange" alt="NestJS"/>
+    <img src="https://img.shields.io/badge/Node.js-Expert-brightgreen" alt="Node.js"/>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDaniel18&hide_progress=true)
 
 ---
 
-Thanks for visiting my profile! 😊
+## Llamado a la Acción
+
+¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/kevin-sierra-castro-b1448b279/) para colaborar en proyectos emocionantes!
+
+---
+
+## Estadísticas de GitHub
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=KevinDaniel18)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Personalización
+
+¡Visita mi [sitio web personal](https://portfolio-git-master-kevindaniel18s-projects.vercel.app/) para obtener más información sobre mí y mis proyectos!
+
+---
+
+¡Gracias por visitar mi perfil! 😊
+
