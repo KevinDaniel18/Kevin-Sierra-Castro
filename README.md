@@ -32,6 +32,8 @@ I'm passionate about programming and on the journey to mastering full stack deve
     </a>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDaniel18&hide_progress=true)
+
 ---
 
 Thanks for visiting my profile! 😊
