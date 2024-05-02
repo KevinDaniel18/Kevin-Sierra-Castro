@@ -43,7 +43,7 @@ Soy un apasionado desarrollador en busca de dominar el camino full stack. Me enc
 ## Estadísticas de GitHub
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=KevinDaniel18)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDaniel18)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDaniel18&layout=compact)
 
 ---
 
