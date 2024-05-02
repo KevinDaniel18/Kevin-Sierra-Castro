@@ -34,7 +34,7 @@ Soy un apasionado desarrollador en busca de dominar el camino full stack. Me enc
 
 ---
 
-## Llamado a la Acción
+## Conéctate!
 
 ¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/kevin-sierra-castro-b1448b279/) para colaborar en proyectos emocionantes!
 
@@ -43,6 +43,7 @@ Soy un apasionado desarrollador en busca de dominar el camino full stack. Me enc
 ## Estadísticas de GitHub
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=KevinDaniel18)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDaniel18)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
